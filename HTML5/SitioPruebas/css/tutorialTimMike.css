@@ -1,0 +1,22 @@
+/* ESTILO */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: rgb(200, 200, 250); 
+}
+
+h1{
+	color:#fff;
+	font-size: 5em;
+	text-transform: uppercase;
+	font-family: Hack, monospace;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}

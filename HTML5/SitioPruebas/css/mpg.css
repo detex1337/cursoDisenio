@@ -1,0 +1,14 @@
+/* Hoja de estilo del menu desplegable */
+#contenedor1{
+	background-color: #888;
+	width: 500px;
+	height: 500px;
+	padding: 20px;
+}
+
+#contenedor2{
+	background-color: #DDD;
+	width: 100%;
+	height: 100%;
+}
+

@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Imagen de fondo</title>
+
+<style> 
+<!-- Creamos las animaciones para que sean compatibles con todos los navegadores -->
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 7s; /* Safari 4.0 - 8.0 */
+  -webkit-animation-iteration-count:infinite;
+  animation-name: example;
+  animation-duration: 7s;
+  animation-iteration-count:infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+  0%   {background-color:red; left:-20%; top:40%;}
+  25%  {background-color:yellow; left:30%; top:20%;}
+  50%  {background-color:blue; left:50%; top:40%;}
+  75%  {background-color:green; left:80%; top:20%;}
+  85% {background-color:red; left:200%; top:20%;}
+  100% {background-color:red; left:-20%; top:40%;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0%   {background-color:red; left:-20%; top:40%;}
+  25%  {background-color:yellow; left:30%; top:20%;}
+  50%  {background-color:blue; left:50%; top:40%;}
+  75%  {background-color:green; left:80%; top:20%;}
+  85% {background-color:red; left:200%; top:20%;}
+  100% {background-color:red; left:-20%; top:40%;}
+}
+</style>
+
+</head>
+
+<body>
+
+	<div style="background-image:url(imagenes/foto1.jpg); height:300px; width:300px"></div>
+    
+</body>
+</html>

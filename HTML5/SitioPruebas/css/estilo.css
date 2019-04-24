@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS3 Document */
+/* Esto es un comentario */
+
+p {
+	color:#070;
+	font-size:18px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+	color:#F00;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#bueno {
+	color:#f500d9;
+}
+.supercontenedor {
+	background-color:#479;
+	width: 600px;
+	height: 50px;
+}

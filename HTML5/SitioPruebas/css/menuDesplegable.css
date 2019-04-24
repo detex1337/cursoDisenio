@@ -1,0 +1,49 @@
+/* Hoja de estilo del menu desplegable */
+
+#menu {
+	margin:auto;
+	width:90%;
+	height:30px;
+	background-color:#999;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+ul,ol{
+	list-style:none;
+}
+
+.nav li a {
+	background-color:#999;
+	color:#000;
+	text-decoration:none;
+	padding:5.5px 60px;
+	display:block;
+}
+
+.nav li a:hover {
+	background-color:rgb(71,90,176,220);
+	color:#999;
+}
+
+.nav > li {
+	float:left;
+}
+
+.nav li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+
+.nav li:hover > ul {
+	display:block;
+}
+
+.nav li ul li {
+	position:relative;
+}
+
+.nav li ul li ul {
+	right:-130px;
+	top:0px;
+}

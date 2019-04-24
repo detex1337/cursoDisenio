@@ -1,0 +1,24 @@
+/* Hoja de estilo del menu desplegable */
+
+#contenedor1 {
+	background-color: rgb(71,98,176);
+	width: 400px;
+	height: 400px;
+	/*margin: 100px 10px 0px 100px;
+	Es lo mismo pero separado*/
+	margin-top: 100px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 100px;
+}
+
+#contenedor2 {
+	background-color: rgb(230,98,176);
+	width: 300px;
+	height: 300px;
+	margin: 0px 10px 10px 100px;
+}
+
+#contenedor3 {
+
+}

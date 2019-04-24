@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Titulo de la pagina</title>
+	</head>
+	<body>
+		<h1>TITULO</h1>
+		<p>Lorem fistrum qué dise usteer va usté muy cargadoo tiene musho peligro mamaar nisi ex benemeritaar voluptate. Hasta luego Lucas apetecan ut aliquip elit. Ahorarr laboris tiene musho peligro me cago en tus muelas minim incididunt. Ut te voy a borrar el cerito ahorarr officia magna de la pradera la caidita nisi. Duis jarl sed veniam a gramenawer consectetur te voy a borrar el cerito. Qui al ataquerl officia no te digo trigo por no llamarte Rodrigor caballo blanco caballo negroorl irure condemor aliquip nisi. Duis quietooor al ataquerl tempor apetecan incididunt no puedor pecador enim caballo blanco caballo negroorl velit. Fistro benemeritaar hasta luego Lucas apetecan sit amet llevame al sircoo.</p>		
+	</body>
+</html>
